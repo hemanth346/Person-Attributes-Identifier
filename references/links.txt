@@ -1,0 +1,2 @@
+Resnet Builder - https://github.com/raghakot/keras-resnet
+One Cycle LR implementation from fast ai library into keras - https://github.com/titu1994/keras-one-cycle
